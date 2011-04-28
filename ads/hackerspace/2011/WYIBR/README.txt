@@ -27,3 +27,4 @@ Contributors:
 
 History:
 	2011-04-28 WYIBC-2011-draft01.indd
+	2011-04-28 WYIBC-2011-draft02.indd (-échéancier +descr. Wolfplex)
