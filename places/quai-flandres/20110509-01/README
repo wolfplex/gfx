@@ -27,3 +27,27 @@ PicID	Shot	Room	QA
 351	F	02	ok
 352	D	04	ok
 353	B	03	ok
+
+
+* * *
+
+Gallery used javascript code by G. Fernandez
+Again, a duotone PANTONE Blue 072 CVC were used.
+
+In prod, copy release content:
+cp release/WolfplexFlandres-20110509-?.jpg gallery
+
+LEFT
+
+POS	CONTENT
+01	Cover.jpg
+02	A	01
+03	B	03
+04	Interlude-01.png
+05	D	04
+
+06	C	02
+07	OS.png
+08	E	02
+09	F	02
+10	Logo.png
